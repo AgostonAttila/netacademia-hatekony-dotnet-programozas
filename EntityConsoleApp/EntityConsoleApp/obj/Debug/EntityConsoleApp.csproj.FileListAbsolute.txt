@@ -1,0 +1,2 @@
+Y:\Workspace\C#\VS2015\EntityConsoleApp\EntityConsoleApp\bin\Debug\EntityConsoleApp.exe.config
+Y:\Programming\Workspace\C#\IT Factory\Hatékony .Netprogramozás\EntityConsoleApp\EntityConsoleApp\bin\Debug\EntityConsoleApp.exe.config

@@ -1,0 +1,13 @@
+Y:\Programming\Workspace\C#\VS2013\XmlProject\XmlProject\bin\Debug\XmlProject.exe.config
+Y:\Programming\Workspace\C#\VS2013\XmlProject\XmlProject\bin\Debug\XmlProject.exe
+Y:\Programming\Workspace\C#\VS2013\XmlProject\XmlProject\bin\Debug\XmlProject.pdb
+Y:\Programming\Workspace\C#\VS2013\XmlProject\XmlProject\obj\Debug\XmlProject.csprojResolveAssemblyReference.cache
+Y:\Programming\Workspace\C#\VS2013\XmlProject\XmlProject\obj\Debug\MainWindow.baml
+Y:\Programming\Workspace\C#\VS2013\XmlProject\XmlProject\obj\Debug\MainWindow.g.cs
+Y:\Programming\Workspace\C#\VS2013\XmlProject\XmlProject\obj\Debug\App.g.cs
+Y:\Programming\Workspace\C#\VS2013\XmlProject\XmlProject\obj\Debug\XmlProject_MarkupCompile.cache
+Y:\Programming\Workspace\C#\VS2013\XmlProject\XmlProject\obj\Debug\XmlProject.g.resources
+Y:\Programming\Workspace\C#\VS2013\XmlProject\XmlProject\obj\Debug\XmlProject.Properties.Resources.resources
+Y:\Programming\Workspace\C#\VS2013\XmlProject\XmlProject\obj\Debug\XmlProject.csproj.GenerateResource.Cache
+Y:\Programming\Workspace\C#\VS2013\XmlProject\XmlProject\obj\Debug\XmlProject.exe
+Y:\Programming\Workspace\C#\VS2013\XmlProject\XmlProject\obj\Debug\XmlProject.pdb

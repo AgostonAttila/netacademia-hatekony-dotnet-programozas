@@ -1,0 +1,2 @@
+Y:\Programming\Workspace\C#\VS2013\Kliens(WebserviceIT)\Kliens(WebserviceIT)\bin\Debug\Kliens(WebserviceIT).exe.config
+y:\Programming\Workspace\C#\IT Factory\Hatékony .Netprogramozás\Kliens(WebserviceIT)\Kliens(WebserviceIT)\bin\Debug\Kliens(WebserviceIT).exe.config

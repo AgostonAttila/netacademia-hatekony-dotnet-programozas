@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidacioMVC3", "ValidacioMVC3\ValidacioMVC3.csproj", "{D45E49DD-CFC3-48A4-B627-2A3B0FFEE89E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adat", "Adat\Adat.csproj", "{723B50E0-B972-4659-B481-77C4C43D80F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D45E49DD-CFC3-48A4-B627-2A3B0FFEE89E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D45E49DD-CFC3-48A4-B627-2A3B0FFEE89E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D45E49DD-CFC3-48A4-B627-2A3B0FFEE89E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D45E49DD-CFC3-48A4-B627-2A3B0FFEE89E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{723B50E0-B972-4659-B481-77C4C43D80F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{723B50E0-B972-4659-B481-77C4C43D80F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{723B50E0-B972-4659-B481-77C4C43D80F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{723B50E0-B972-4659-B481-77C4C43D80F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

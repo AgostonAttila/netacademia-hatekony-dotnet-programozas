@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2010\Projects\ValidacioMVC3\ValidacioMVC3\bin\ValidacioMVC3.dll
+c:\users\admin\documents\visual studio 2010\Projects\ValidacioMVC3\ValidacioMVC3\bin\ValidacioMVC3.pdb
+c:\users\admin\documents\visual studio 2010\Projects\ValidacioMVC3\ValidacioMVC3\bin\Adat.dll
+c:\users\admin\documents\visual studio 2010\Projects\ValidacioMVC3\ValidacioMVC3\bin\EntityFramework.dll
+c:\users\admin\documents\visual studio 2010\Projects\ValidacioMVC3\ValidacioMVC3\bin\Adat.pdb
+c:\users\admin\documents\visual studio 2010\Projects\ValidacioMVC3\ValidacioMVC3\bin\EntityFramework.xml
+c:\users\admin\documents\visual studio 2010\Projects\ValidacioMVC3\ValidacioMVC3\obj\Debug\ResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2010\Projects\ValidacioMVC3\ValidacioMVC3\obj\Debug\ValidacioMVC3.dll
+c:\users\admin\documents\visual studio 2010\Projects\ValidacioMVC3\ValidacioMVC3\obj\Debug\ValidacioMVC3.pdb

@@ -1,0 +1,6 @@
+Y:\Programming\Workspace\C#\VS2013\ArfolyamSzolgaltatas\ArfolyamSzolgaltatas\bin\ArfolyamSzolgaltatas.dll.config
+Y:\Programming\Workspace\C#\VS2013\ArfolyamSzolgaltatas\ArfolyamSzolgaltatas\bin\ArfolyamSzolgaltatas.dll
+Y:\Programming\Workspace\C#\VS2013\ArfolyamSzolgaltatas\ArfolyamSzolgaltatas\bin\ArfolyamSzolgaltatas.pdb
+Y:\Programming\Workspace\C#\VS2013\ArfolyamSzolgaltatas\ArfolyamSzolgaltatas\obj\Debug\ArfolyamSzolgaltatas.csprojResolveAssemblyReference.cache
+Y:\Programming\Workspace\C#\VS2013\ArfolyamSzolgaltatas\ArfolyamSzolgaltatas\obj\Debug\ArfolyamSzolgaltatas.dll
+Y:\Programming\Workspace\C#\VS2013\ArfolyamSzolgaltatas\ArfolyamSzolgaltatas\obj\Debug\ArfolyamSzolgaltatas.pdb

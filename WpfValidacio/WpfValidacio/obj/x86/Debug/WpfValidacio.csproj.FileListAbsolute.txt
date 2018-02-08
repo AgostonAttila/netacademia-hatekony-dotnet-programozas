@@ -1,0 +1,20 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\WpfValidacio\bin\Debug\WpfValidacio.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\WpfValidacio\bin\Debug\WpfValidacio.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\WpfValidacio\bin\Debug\Adat.dll
+C:\Users\Admin\AppData\Local\Temporary Projects\WpfValidacio\bin\Debug\Adat.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\WpfValidacio\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\AppData\Local\Temporary Projects\WpfValidacio\obj\x86\Debug\MainWindow.baml
+C:\Users\Admin\AppData\Local\Temporary Projects\WpfValidacio\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Admin\AppData\Local\Temporary Projects\WpfValidacio\obj\x86\Debug\App.g.cs
+C:\Users\Admin\AppData\Local\Temporary Projects\WpfValidacio\obj\x86\Debug\WpfValidacio_MarkupCompile.cache
+C:\Users\Admin\AppData\Local\Temporary Projects\WpfValidacio\obj\x86\Debug\WpfValidacio.g.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\WpfValidacio\obj\x86\Debug\WpfValidacio.Properties.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\WpfValidacio\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\AppData\Local\Temporary Projects\WpfValidacio\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\AppData\Local\Temporary Projects\WpfValidacio\obj\x86\Debug\WpfValidacio.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\WpfValidacio\obj\x86\Debug\WpfValidacio.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\WpfValidacio\obj\x86\Debug\App.baml
+C:\Users\Admin\documents\visual studio 2010\Projects\WpfValidacio\WpfValidacio\obj\x86\Debug\WpfValidacio.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\WpfValidacio\WpfValidacio\obj\x86\Debug\WpfValidacio.pdb
+y:\Workspace\C#\VS2013\WpfValidacio\WpfValidacio\obj\x86\Debug\WpfValidacio.exe
+y:\Workspace\C#\VS2013\WpfValidacio\WpfValidacio\obj\x86\Debug\WpfValidacio.pdb

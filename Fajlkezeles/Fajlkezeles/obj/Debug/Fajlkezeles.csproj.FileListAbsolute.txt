@@ -1,0 +1,9 @@
+Y:\Programming\Workspace\C#\VS2013\Fajlkezeles\Fajlkezeles\bin\Debug\Fajlkezeles.exe.config
+Y:\Programming\Workspace\C#\VS2013\Fajlkezeles\Fajlkezeles\bin\Debug\Fajlkezeles.exe
+Y:\Programming\Workspace\C#\VS2013\Fajlkezeles\Fajlkezeles\bin\Debug\Fajlkezeles.pdb
+Y:\Programming\Workspace\C#\VS2013\Fajlkezeles\Fajlkezeles\obj\Debug\Fajlkezeles.csprojResolveAssemblyReference.cache
+Y:\Programming\Workspace\C#\VS2013\Fajlkezeles\Fajlkezeles\obj\Debug\Fajlkezeles.exe
+Y:\Programming\Workspace\C#\VS2013\Fajlkezeles\Fajlkezeles\obj\Debug\Fajlkezeles.pdb
+y:\Programming\Workspace\C#\IT Factory\Fajlkezeles\Fajlkezeles\bin\Debug\Fajlkezeles.exe.config
+y:\Programming\Workspace\C#\IT Factory\Fajlkezeles\Fajlkezeles\obj\Debug\Fajlkezeles.exe
+y:\Programming\Workspace\C#\IT Factory\Fajlkezeles\Fajlkezeles\obj\Debug\Fajlkezeles.pdb

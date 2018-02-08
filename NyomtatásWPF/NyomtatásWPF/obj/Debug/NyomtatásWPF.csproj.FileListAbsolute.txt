@@ -1,0 +1,1 @@
+Y:\Programming\Workspace\C#\VS2013\NyomtatásWPF\NyomtatásWPF\bin\Debug\NyomtatásWPF.exe.config
